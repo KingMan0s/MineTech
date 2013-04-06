@@ -1,0 +1,20 @@
+[
+{
+  "modid": "MineT",
+  "name": "MineTech",
+  "description": "Houses to lights to factories and more!",
+  "version": "@VERSION@",
+  "url": "http://www.minecraftforum.net/topic/1106178-",
+  "updateUrl": "",
+  "authorList": [
+    "TheKingMan0s"
+  ],
+  "credits": "By TheKingMan0s, based on IC2 and BuildCraft",
+  "logoFile": "mods/ee3/textures/logo/logo.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
